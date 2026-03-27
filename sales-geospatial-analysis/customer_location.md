@@ -1,3 +1,4 @@
-![image](https://github.com/user-attachments/assets/198e8c37-f488-4502-aa9c-a9baceab793a)
+<img width="1451" height="739" alt="image" src="https://github.com/user-attachments/assets/477236db-fb21-4e0e-8494-8049a690f08b" />
+
 
 [interactive map](https://rpubs.com/Loyd/1235449)
